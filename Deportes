@@ -7,7 +7,7 @@
 $discard
 $boost=4,site=sport.es
 $boost=4,site=marca.com
-$boost=4,site=mundodeportivo
+$boost=4,site=mundodeportivo.com
 $boost=4,site=antena2.com
 $boost=4,site=espndeportes.com
 $boost=4,site=fichajes.net
@@ -15,3 +15,7 @@ $boost=4,site=fichajes.com
 $boost=4,site=90min.com
 $boost=4,site=as.com
 $boost=4,site=penal90.blogspot.com
+$boost=4,site=premierleague.com
+$boost=4,site=laliga.com
+$boost=4,site=legaseriea.it
+$boost=4,site=bundesliga.com
