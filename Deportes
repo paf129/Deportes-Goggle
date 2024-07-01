@@ -1,0 +1,16 @@
+! name: Deportes en Español / Deportes
+! description: Prioritizes sport websites in spanish.
+! author: paf129
+! public: true
+! avatar: #ff6600
+
+$discard
+$boost=4,site=sport.es
+$boost=4,site=marca.com
+$boost=4,site=mundodeportivo
+$boost=4,site=antena2.com
+$boost=4,site=espndeportes.com
+$boost=4,site=fichajes.net
+$boost=4,site=fichajes.com
+$boost=4,site=90min.com
+$boost=4,site=as.com
